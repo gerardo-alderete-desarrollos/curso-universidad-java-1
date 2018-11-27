@@ -1,6 +1,6 @@
 package ejemploconversionobjetos;
 
-public class Gerente extends Empleado{
+public class Gerente extends Empleado{  
     
     private String departamento;
 
